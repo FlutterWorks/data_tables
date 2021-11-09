@@ -1,3 +1,12 @@
+## 1.4.0
+
+* fixed deprecated theme properties
+
+## 1.3.2
+
+* fixing hide select box
+* recreating example target folders
+
 ## 1.3.1
 
 * support for no items
